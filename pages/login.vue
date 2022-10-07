@@ -58,7 +58,7 @@ export default {
         if (this.$store.state.session == {})
             this.$toast.error("Allô")
         // Get current user value
-        this.$warehouse.get('user')
+        //this.$warehouse.get('user')
         // this.$axios.onError(e => Promise.reject(e.response.data))
     },
 

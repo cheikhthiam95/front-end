@@ -50,12 +50,12 @@
 
 <script>
 import axios from "axios";
-import VueGoogleAutocomplete from 'vue-google-autocomplete'
+//import VueGoogleAutocomplete from 'vue-google-autocomplete'
 // Then, on the setup method
 
 export default {
     components: {
-        VueGoogleAutocomplete
+      // VueGoogleAutocomplete
     },
     layout: "login",
     props: {

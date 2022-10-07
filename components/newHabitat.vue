@@ -48,12 +48,12 @@
 </template>
 
 <script>
-import VueGoogleAutocomplete from 'vue-google-autocomplete'
+//import VueGoogleAutocomplete from 'vue-google-autocomplete'
 // Then, on the setup method
 
 export default { 
     components: {
-        VueGoogleAutocomplete
+        //VueGoogleAutocomplet
     },
     data() {
         return {
